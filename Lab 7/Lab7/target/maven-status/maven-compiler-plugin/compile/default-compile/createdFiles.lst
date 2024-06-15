@@ -1,0 +1,13 @@
+com\model\Student.class
+com\util\DBConnection.class
+com\mycompany\lab7\JakartaRestConfiguration.class
+com\dao\DBConnection.class
+com\mycompany\lab7\resources\JakartaEE10Resource.class
+com\controller\profileServlet.class
+com\dao\UserDao.class
+com\model\Profile.class
+com\controller\UserController.class
+com\model\User.class
+com\dao\studentDao.class
+com\controller\StudentServlet.class
+com\dao\profileDao.class
